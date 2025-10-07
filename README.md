@@ -1,3 +1,5 @@
+![Profile](images.png)
+
 # Hi, I'm Khanyakwezwe Dlamini
 
 **Software Engineer | Full-stack Developer | Passionate about AI, DevOps & Open Source**
