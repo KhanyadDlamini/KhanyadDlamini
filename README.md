@@ -16,3 +16,10 @@ I specialize in building scalable solutions and exploring new technologies. When
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/#)
 [![Zindi](https://img.shields.io/badge/Zindi-0099FF?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/users/#)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/#)
+
+---
+
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,redux,html,css,tailwind,git,docker,kubernetes,aws,linux,postgres,mongodb,jenkins" height="30"/>
+
