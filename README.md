@@ -1,4 +1,4 @@
-![Profile](images.png)
+![Profile](image.png)
 
 # Hi, I'm Khanyakwezwe Dlamini
 
