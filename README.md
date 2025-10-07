@@ -1,4 +1,4 @@
-![Profile](image.png)
+![Profile](https://d1lzrgdbvkolkd.cloudfront.net/3057_B_36b0268265.jpg)
 
 # Hi, I'm Khanyakwezwe Dlamini
 
