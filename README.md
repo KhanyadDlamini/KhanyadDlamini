@@ -21,5 +21,5 @@ I specialize in building scalable solutions and exploring new technologies. When
 
 ### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,redux,html,css,tailwind,git,docker,kubernetes,aws,linux,postgres,mongodb,mysql,eclipse,elixir,firebase,graphql,nextjs,opencv,postman,prisma,tensorflow,vscode,visualstudio,spring,fastapi,express,atom" height="100"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,redux,html,css,tailwind,git,docker,kubernetes,aws,linux,postgres,mongodb,mysql,eclipse,elixir,firebase,graphql,nextjs,opencv,postman,prisma,tensorflow,vscode,visualstudio,spring,fastapi,express,atom" height="130"/>
 
