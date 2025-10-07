@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khanyad Dlamini
+# Hi, I'm Khanyakwezwe Dlamini
 
 **Software Engineer | Full-stack Developer | Passionate about AI, DevOps & Open Source**
 
