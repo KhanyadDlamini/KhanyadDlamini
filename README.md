@@ -10,7 +10,7 @@ I specialize in building scalable solutions and exploring new technologies. When
 
 ### Connect with my projects
 
-[![NPM](https://img.shields.io/badge/NPM-E23D28?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~khanyakwezwedlamini)
+[![NPM](https://img.shields.io/badge/NPM-E23D28?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~kwezwe)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FE9200?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/#)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/repository/#)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/#)
